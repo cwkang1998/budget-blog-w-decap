@@ -1,0 +1,6 @@
+
+# Public, built output
+public/
+
+# Image generated
+resources/
